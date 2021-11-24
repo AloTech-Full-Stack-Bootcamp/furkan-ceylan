@@ -1,0 +1,1 @@
+https://medium.com/@ceylanfurkan/what-are-the-differences-between-sql-and-nosql-databases-114d06d83fab
