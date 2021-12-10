@@ -8,7 +8,7 @@ def random_num_gen(n, l):
             nums.append(num)
             yield num
 
-print(list(random_number_generator(2, 5)))
+print(list(random_num_gen(2, 5)))
 
 def my_awesome_decorator(fun):
     def wrapped(*args):
