@@ -8,7 +8,7 @@ def random_num_gen(n, l):
             nums.append(num)
             yield num
 
-print(list(random_number_generator(7, 6)))
+print(list(random_number_generator(2, 5)))
 
 def my_awesome_decorator(fun):
     def wrapped(*args):
@@ -22,4 +22,4 @@ def mod_batch(*nums):
             return False
     return True
 
-print(mod_batch(2, 5, 8))
+print(mod_batch(4, 9, 18))
